@@ -1,0 +1,9 @@
+{
+    "name": "react-expr",
+    "version": "2.0.0",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "dependencies": {
+        "prop-types": "latest"
+    }
+}
