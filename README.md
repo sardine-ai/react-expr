@@ -77,3 +77,13 @@ Component provides next props:
 * value: string; — value (for usage as controller component)
 * defaultValue: string; — initial value
 * onChange: func; — callback for getting updates
+
+## NOTE
+
+This is not a forked version, but a git clone version of the original source at
+
+* <https://twitter.com/antonmedv?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor>
+* <https://github.com/antonmedv>
+
+Unfortunately, the author's github has some issues. The code is not written by us but by the author antonmedv.
+A workaround was needed, thus this repo.
